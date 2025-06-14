@@ -1,4 +1,4 @@
-🛒 # Shopping App
+🛒 #Shopping App
 
 A simple and responsive Shopping App built with React, Redux, and Tailwind CSS.
 It demonstrates core e-commerce functionality like product listing, cart management, and responsive design.
