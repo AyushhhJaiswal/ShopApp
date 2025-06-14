@@ -23,8 +23,6 @@ It demonstrates core e-commerce functionality like product listing, cart managem
 - ⚡ Smooth loading spinner while fetching data
 - 🐞 Basic error handling
 
-## 🧑‍💻 Getting Started
+##🙌 Support
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+If you like this project, consider giving it a ⭐ on GitHub — it helps a lot!
